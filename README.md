@@ -18,4 +18,6 @@
 
 8. Multithreading.
 
-10. JDBC (Basic Database Connections).
+9. JDBC (Basic Database Connections).
+
+10. Data Structure and Algorithms.
